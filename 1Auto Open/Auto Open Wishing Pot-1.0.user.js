@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Auto Open Wishing Pots
 // @namespace    http://tampermonkey.net/
-// @version      1.1
-// @description  Buka Wishing Pots berdasarkan outfit terpilih.
+// @version      1.0
+// @description Open Wishing Pots based on selected outfits.
 // @author       PLAYERONE
 // @match        https://pockieninja.online
 // @grant        none
