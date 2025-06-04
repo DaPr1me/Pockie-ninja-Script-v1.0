@@ -2,7 +2,7 @@
 // @name         Auto Open Wishing Pots
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description Open Wishing Pots based on selected outfits.
+// @description  Open Wishing Pots based on selected outfits.
 // @author       PLAYERONE
 // @match        https://pockieninja.online
 // @grant        none
