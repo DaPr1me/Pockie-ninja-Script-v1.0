@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Auto Synthesize Outfit
+// @name         Auto sell
 // @namespace    http://tampermonkey.net/
-// @version      2.2
+// @version      1.3
 // @description  Drag and drop outfit otomatis
 // @author       PLAYERONE
 // @match        https://pockieninja.online
