@@ -1,0 +1,10 @@
+
+A script that's created for entertainment purposes, not for any serious or practical use
+
+EASY LIFE EASY DAY
+
+-Install TamperMonkey Extension (https://www.tampermonkey.net/)
+-Add the Script
+-Restart browser
+
+have fun yayayyasz
